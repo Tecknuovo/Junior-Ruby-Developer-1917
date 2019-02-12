@@ -1,5 +1,4 @@
 # Junior-Ruby-Developer-1917
-Junior Ruby Developer 
 
 # Junior Ruby Developer / West London / 1917
 
@@ -23,29 +22,29 @@ Based in Soho the development team work from the brands headquarters and one of 
 
 # Project Examples  
 
-•	Integration of existing POS systems into the new central platform.
-•	Building payment API’s to connect with a variety of different payment gateways.
-•	Building mobile native mobile applications (Swift and Android).
-•	Creation of a social network for business for use by their members.
+- Integration of existing POS systems into the new central platform.
+- Building payment API’s to connect with a variety of different payment gateways.
+- Building mobile native mobile applications (Swift and Android).
+- Creation of a social network for business for use by their members.
 
 
 # What experience is required?
 
-•	Strong Ruby development experience is ideal, but the team are open to recruiting developers from other backgrounds as long as they are pragmatic and have a “full stack mentality”.
-•	The ability to work autonomously.
-•	An interest in understanding the business domain with a view to basing technical decisions on improving the experience of the customer.
+- Strong Ruby development experience is ideal, but the team are open to recruiting developers from other backgrounds as long as they are pragmatic and have a “full stack mentality”.
+- The ability to work autonomously.
+- An interest in understanding the business domain with a view to basing technical decisions on improving the experience of the customer.
 
 Please email lucy.wright@tecknuovo.com if you’d like to talk through the above in more detail.
 
 # Questions:
-**Do they offer remote/flexible working? **
+**Do they offer remote/flexible working?**
 
 One day a week based from home otherwise be there for the stand up at 10:00
 
-**Will you be required to travel? ** 
+**Will you be required to travel?** 
 
 No
 
-**What is the team structure? **
+**What is the team structure?**
 
 15 people in technology as a whole working in small teams roughly following Agile development practices including TDD.
