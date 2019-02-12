@@ -1,6 +1,6 @@
 # Junior-Ruby-Developer-1917
 
-# Junior Ruby Developer / West London / 1917
+# Junior Ruby Developer / West London / £35,000 - £45,000
 
 # Stack: 
 
